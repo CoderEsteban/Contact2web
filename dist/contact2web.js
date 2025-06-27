@@ -14,7 +14,7 @@
  * Uso:
  * <script>
  *   window.Conect2webConfig = {
- *     whatsappNumber: '50687654321',
+ *     whatsappNumber: '506123456789',
  *     infoText: 'Escribenos tus dudas aquí y responderemos pronto.'
  *   };
  * </script>
@@ -27,7 +27,7 @@
 
   // === CONFIGURACIÓN INICIAL ===
   const defaults = {
-    whatsappNumber: '50625116680',
+    whatsappNumber: '506123456789',
     qrSize: 200,
     position: { bottom: '20px', right: '20px' },
     colors: {
