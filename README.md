@@ -1,7 +1,5 @@
 # Contact2web
 
-# Conect2web
-
 Plugin JavaScript para añadir un botón flotante de contacto con QR y formulario dinámico para WhatsApp.
 
 ## Instalación
